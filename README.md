@@ -1,2 +1,2 @@
-# Letter-Counter
-Counts letter given a book text file
+# Letter Counter Bot
+Counts letters given a book text file
